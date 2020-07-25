@@ -1,0 +1,13 @@
+╠╦═account
+║╠╦═Attributes
+║║╠═accountid
+║║╠═name
+║║╠═numberofemployees
+║║╠═primarycontactid
+╠╦═contact
+║╠╦═Attributes
+║║╠═bb_myapikey
+║║╠═contactid
+║║╠═firstname
+║║╠═lastname
+║║╠═parentcustomerid
